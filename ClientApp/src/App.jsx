@@ -7,7 +7,6 @@ export function App() {
       <div className="d-flex justify-content-center display-2">
         Hello, Team!
       </div>
-      <div>hello bitches</div>
     </>
   )
 }
